@@ -6,10 +6,6 @@ body {
 
 }
 
-.link-line {
-  border-bottom: 1px solid #000;
-}
-
 .header {
   padding: 92px 50px 96px 50px;
   
@@ -197,9 +193,6 @@ body {
   z-index: 1;
 }
 
-
-
-
 .card_type_book,
 .card_type_film,
 .card_type_picture {
@@ -254,8 +247,6 @@ body {
   height: 731px;
   padding: 35px 0 0 47px;
 }
-
-
 
 .about__logo {
   background-color: #000;
@@ -315,7 +306,6 @@ body {
 
 .footer__menu-list-item {
   list-style: none;
-
 }
 
 .footer__menu-link {
