@@ -171,6 +171,7 @@ body {
   gap: 25px;
   margin-bottom: 30px;
   list-style: none;
+  flex-wrap: wrap;
 }
 
 .lots__card-list-item {
